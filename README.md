@@ -1,6 +1,6 @@
 # LR
 
-[![Witches](http://img.youtube.com/vi/cIgNR0fq54I/0.jpg)](https://www.youtube.com/watch?v=cIgNR0fq54I)
+[![LR](http://img.youtube.com/vi/cIgNR0fq54I/0.jpg)](https://www.youtube.com/watch?v=cIgNR0fq54I)
 
 ## 説明
 たくさん貢いでください。<br>
